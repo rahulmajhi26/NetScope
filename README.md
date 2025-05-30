@@ -34,7 +34,7 @@ A powerful Python-based tool for cybersecurity professionals and enthusiasts to 
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/NetScope.git
+git clone https://github.com/rahulmajhi26/NetScope.git
 cd CIDRSpy
 chmod +x NetScope.py
 
