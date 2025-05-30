@@ -34,15 +34,15 @@ A powerful Python-based tool for cybersecurity professionals and enthusiasts to 
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/CIDRSpy.git
+git clone https://github.com/yourusername/NetScope.git
 cd CIDRSpy
-chmod +x ip_range_scanner.py
+chmod +x NetScope.py
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🚀 Usage
-Run the tool: ./ip_range_scanner.py
+Run the tool: ./NetScope.py
 
 
 
