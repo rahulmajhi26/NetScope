@@ -3,7 +3,7 @@ A powerful Python-based tool for cybersecurity professionals and enthusiasts to 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🔎 CIDRSpy
+# 🔎 NetSCOPE
 
 **NetScope** is an advanced Python-based tool designed for cybersecurity professionals, bug bounty hunters, and ethical hackers. It extracts all IP addresses from a given **CIDR block** or **IP range**, supports **reverse DNS lookups**, and allows optional **export to a text file**. Perfect for network reconnaissance and target scoping.
 
